@@ -1,6 +1,4 @@
 import time
-import os
-
 
 def bubble_sort_visualize(arr):
     n = len(arr)
